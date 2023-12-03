@@ -1,2 +1,2 @@
 # .gitignore should include reference to config.py
-OPENAI_API_KEY= "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"
+OPENAI_API_KEY= "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"
