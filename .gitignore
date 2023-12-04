@@ -1,3 +1,4 @@
 config.py
 test.txt
-__pycache__
+__pycache__/
+Translate/

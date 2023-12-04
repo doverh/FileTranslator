@@ -1,6 +1,7 @@
 # FileTranslator
 
-##1.Receives a file as input in any laguage* (txt)
-##2.Translates into a given language informed as parameter
-##3.Generates a new file with original_file_translated.txt
+## 1.Drop file in translate folder
+## 2.Call translateFile(<File_Name>,<output language>)
+## 3.Translated file will be available on Translate/Tranlated folder
 
+### Generate a API Key on https://platform.openai.com/api-keys to utilize deep_translator ChatGptTranslator
